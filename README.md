@@ -2,7 +2,7 @@
 
 Projeto de análise e modelagem de fraude no dataset Credit Card Fraud Detection (MLG-ULB), com 284.807 transações e apenas 0,17% de fraudes.
 
-- Notebook no Kaggle: LINK_DO_SEU_NOTEBOOK
+- Notebook no Kaggle: [LINK_DO_SEU_NOTEBOOK](https://www.kaggle.com/code/trinmat/creditcardfraud)
 - Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 # **O que foi feito**
