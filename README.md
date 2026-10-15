@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Detecção de fraude em cartão de crédito">
+</p>
+
 # **Detecção de fraude em cartão de crédito**
 
 Projeto de análise e modelagem de fraude no dataset Credit Card Fraud Detection (MLG-ULB), com 284.807 transações e apenas 0,17% de fraudes.
