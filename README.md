@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Detecção de fraude em cartão de crédito">
+  <img src="banner.jpg" width="100%" alt="Detecção de fraude em cartão de crédito">
 </p>
 
 # **Detecção de fraude em cartão de crédito**
