@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.jpg" alt="Detecção de fraude em cartão de crédito" width="100%">
+</p>
 # 💳 Detecção de Fraude em Cartão de Crédito
 
 Projeto de Machine Learning para identificar transações fraudulentas no dataset
